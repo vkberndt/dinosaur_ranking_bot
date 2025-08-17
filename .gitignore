@@ -1,0 +1,4 @@
+# Secrets
+.env
+credentials.json
+venv/
